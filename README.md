@@ -40,5 +40,6 @@ npm run start
 
 ## Contact
 
-[My LinkedIn page]([https://www.linkedin.com/in/rania-deiri-368289210])
+[My LinkedIn page](https://www.linkedin.com/in/rania-deiri-368289210)
+
 [Live Link For Portifolio](https://raniaportifolio.netlify.app/)
