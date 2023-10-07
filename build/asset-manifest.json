@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f527a019.css",
-    "main.js": "/static/js/main.88b76ffe.js",
+    "main.css": "/static/css/main.f23c9a55.css",
+    "main.js": "/static/js/main.5a8ec22b.js",
     "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/portifolio.PNG": "/static/media/portifolio.d3c8f7275f1d07674fb5.PNG",
     "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
@@ -11,10 +11,10 @@
     "static/media/socialmedia.png": "/static/media/socialmedia.a6b66b8c6f1373ecea1f.png",
     "static/media/about03.png": "/static/media/about03.c26c2547bb1a423cf283.png",
     "static/media/profile.png": "/static/media/profile.a606d1513e0fe43de397.png",
+    "static/media/img3.PNG": "/static/media/img3.c879f2c9288e0b353d76.PNG",
     "static/media/spotify.png": "/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/nb.png": "/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/asus.png": "/static/media/asus.514bc34955008a92e09f.png",
-    "static/media/niceicecream.PNG": "/static/media/niceicecream.be613cf100e16b57d616.PNG",
     "static/media/adidas.png": "/static/media/adidas.83df8153294f9137d308.png",
     "static/media/bolt.png": "/static/media/bolt.64e7d9d30ece478ef3a0.png",
     "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
@@ -32,11 +32,11 @@
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.f527a019.css.map": "/static/css/main.f527a019.css.map",
-    "main.88b76ffe.js.map": "/static/js/main.88b76ffe.js.map"
+    "main.f23c9a55.css.map": "/static/css/main.f23c9a55.css.map",
+    "main.5a8ec22b.js.map": "/static/js/main.5a8ec22b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f527a019.css",
-    "static/js/main.88b76ffe.js"
+    "static/css/main.f23c9a55.css",
+    "static/js/main.5a8ec22b.js"
   ]
 }
