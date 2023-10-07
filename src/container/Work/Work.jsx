@@ -3,7 +3,7 @@ import { AiFillEye, AiFillGithub } from 'react-icons/ai';
 import { motion } from 'framer-motion';
 import img1 from '../../assets/socialmedia.png'
 import img2 from '../../assets/postsapp.png'
-import img3 from '../../assets/niceicecream.PNG'
+import img3 from '../../assets/img3.PNG'
 import img4 from '../../assets/portifolio.PNG'
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { urlFor } from '../../client';
@@ -23,9 +23,9 @@ const Work = () => {
       tags:  ['UI/UX', 'Web App', 'React JS', 'All'],
       imgUrl:img4
       },
-      {codeLink: "https://github.com/raniadeiri/NiceIcecreamForShopping",
-      description: "Project For Shopping Ice cream and adding items to cart with the ability to remove it from the cart",
-      title : "Nice Ice Cream For Shopping",
+      {codeLink: "https://github.com/raniadeiri/JS-Frameworks-Course-Assignment",
+      description: "Project For Showing Data From Api, Selecting Specific Row And Show Its Data, Login, Contact And Admin Functionality",
+      title : "JS Frameworks Course Assignment",
       tags:  ['UI/UX', 'Web App', 'All'],
       imgUrl:img3
       },
@@ -38,24 +38,28 @@ const Work = () => {
   ]);
   const [filterWork, setFilterWork] = useState([
     {codeLink: "https://github.com/raniadeiri/post-app",
+    projectLink:"https://github.com/raniadeiri/post-app",
       description: "Posts Application for viewing and adding posts",
       title : "Posts App",
       tags:  ['UI/UX', 'Web App', 'React JS', 'All'],
       imgUrl: img2
       },
       {codeLink: "https://github.com/raniadeiri/Portifolio",
+      projectLink:"https://github.com/raniadeiri/Portifolio",
       description: "A Modern UI/UX Portfolio Project",
       title : "Portifolio",
       tags:  ['UI/UX', 'Web App', 'React JS', 'All'],
       imgUrl:img4
       },
-      {codeLink: "https://github.com/raniadeiri/NiceIcecreamForShopping",
-      description: "Project For Shopping Ice cream and adding items to cart with the ability to remove it from the cart",
-      title : "Nice Ice Cream For Shopping",
+      {codeLink: "https://github.com/raniadeiri/JS-Frameworks-Course-Assignment",
+      projectLink:"https://github.com/raniadeiri/JS-Frameworks-Course-Assignment",
+      description: "Project For Showing Data From Api, Selecting Specific Row And Show Its Data, Login, Contact And Admin Functionality",
+      title : "JS Frameworks Course Assignment",
       tags:  ['UI/UX', 'Web App', 'All'],
       imgUrl:img3
       },
-      {codeLink: "https://socialmediaappgraduationproject.netlify.app/",
+      {codeLink: "https://github.com/raniadeiri/SocialMediaApp-GraduationProject",
+      projectLink:"https://socialmediaappgraduationproject.netlify.app/",
       description: "Social Media Application clones facebook for viewing posts and reacting to it and logging in and register",
       title : "Social Media Application",
       tags:  ['UI/UX', 'Web App', 'React JS', 'All'],
